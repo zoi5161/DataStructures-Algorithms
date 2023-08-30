@@ -1,0 +1,7 @@
+*Linear Probing:
+Disavantages: 
+- When we put  - > create a cluster. if hash function is not good => bigger cluster althought we have a lot of spaces
+=> the search is not efficient (sequentially)
+- ID1, ID2 are have the same index => collide but many next indexs are occupied => ID2 is moved whole cluster (althought ID2 not conflict with IDx, IDy (neighbor of IDx)))
+
+*Others: quadratic probing, double probing (trang 58 tới hết trong slide)

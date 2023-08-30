@@ -1,0 +1,39 @@
+#Q Is it a terrestrial animal?
+#Q Can it fly?
+#Q Is it in the 12 animal designations signs?
+#A Is it a dragon?
+#Q Was it a mail carrier?
+#A Is it a dove?
+#A Is it a bird?
+#Q Is it a house pet?
+#Q Raise it for meat?
+#Q Does it have 4 pins?
+#Q Does it eat grass?
+#Q Is it an animal of the 12 animal designations signs?
+#A Is it a buffalo?
+#A Is it a cow?
+#A Is it a pig?
+#Q Does it wake up early?
+#A Is it a chicken?
+#A Is it a duck?
+#Q Does it know how to catch mice?
+#A Is it a cat?
+#A Is it a dog?
+#Q Is it in the 12 animal designations signs?
+#Q Is it a carnivore?
+#Q Is it poisonous?
+#A Is it a snake?
+#A Is it a tiger?
+#Q Does it often appear in the house?
+#A Is it a mouse?
+#Q Is it also a means of transportation?
+#A Is it a horse?
+#Q Does it eat grass?
+#A Is it a goat?
+#A Is it a monkey?
+#Q Is it an insect?
+#A Is it a cockroach?
+#A Is it an elephant?
+#Q Is it usually kept indoors?
+#A Is it a turtle?
+#A Is it a shark?

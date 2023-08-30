@@ -1,0 +1,17 @@
+ID55663, Ve dau mai toc nguoi thuong, Hoai Linh
+ID60102, Chua bao gio, Tien Tien
+ID51009, Khat vong, Thuan Yen
+ID21345, Anh oi o lai, Dat G
+ID51199, Khat vong, Pham Minh Tuan
+ID50141, Tinh ca, Hoang Viet
+ID91274, Mat trang, Bui Lan Huong
+ID00001, Tinh ca, Pham Duy
+ID52094, Tinh ca mua xuan, Ton That Lap
+ID54191, Chua bao gio, Viet Anh
+ID00103, Waiting for you, Onionn
+ID51924, Khat vong tuoi tre, Vu Hoang
+ID01072, U! Em xin loi, Khac Hung
+ID40444, Dung bo em mot minh, Pham Duy
+ID53204, Tinh ca, Quoc Bao
+ID32311, Vu dieu gio, Vu Minh Tam
+ID41323, Nhu nhung phut ban dau, Tien Minh

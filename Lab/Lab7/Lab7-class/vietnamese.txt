@@ -1,0 +1,39 @@
+#Q Nó có phải là động vật trên cạn không?
+#Q Nó có biết bay không?
+#Q Nó có trong 12 con giáp không?
+#A Nó là con rồng phải không?
+#Q Nó từng là phương tiện đưa thư phải không?
+#A Nó là con chim bồ câu phải không?
+#A Nó là con chim phải không?
+#Q Nó có phải là thú nuôi trong nhà không?
+#Q Nuôi nó để làm thịt phải không?
+#Q Nó có 4 chân phải không?
+#Q Nó ăn cỏ phải không?
+#Q Nó là một con vật trong 12 con giáp phải không?
+#A Nó là con trâu phải không?
+#A Nó là con bò phải không?
+#A Nó là con heo phải không?
+#Q Nó dậy sớm lắm phải không?
+#A Nó là con gà phải không?
+#A Nó là con vịt phải không?
+#Q Nó biết bắt chuột không?
+#A Nó là con mèo phải không?
+#A Nó là con chó phải không?
+#Q Nó có trong 12 con giáp không?
+#Q Nó là động vật ăn thịt phải không?
+#Q Nó có độc không?
+#A Nó là con rắn phải không?
+#A Nó là con cọp phải không?
+#Q Nó thường xuất hiện trong nhà phải không?
+#A Nó là con chuột phải không?
+#Q Nó cũng là một phương tiện di chuyển phải không?
+#A Nó là con ngựa phải không?
+#Q Nó ăn cỏ phải không?
+#A Nó là con dê phải không?
+#A Nó là con khỉ phải không?
+#Q Nó là loài con trùng phải không?
+#A Nó là con gián phải không?
+#A Nó là con voi phải không?
+#Q Nó thường được nuôi trong nhà phải không?
+#A Nó là con rùa phải không?
+#A Nó là con cá mập phải không?

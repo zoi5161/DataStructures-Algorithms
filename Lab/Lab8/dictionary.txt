@@ -1,0 +1,86 @@
+antelope: linh dương
+airplane: máy bay
+ant: con kiến
+ball: quả bóng
+cat: con mèo
+banana: quả chuối
+bear: con gấu
+bat: con dơi
+dog: con chó
+clock: đồng hồ
+caterpillar: sâu bướm
+cheetah: con báo
+elephant: con voi
+duck: con vịt
+dragon: con rồng
+dolphin: cá heo
+eagle: con đại bàng
+echidna: con kiến ba khoang
+fish: con cá
+garden: vườn
+frog: con ếch
+flamingo: con hồng hạc
+fox: con cáo
+hat: cái nón
+guitar: đàn guitar
+giraffe: con hươu cao cổ
+gorilla: con khỉ đột
+ice cream: kem
+house: ngôi nhà
+helicopter: trực thăng
+hedgehog: con nhím
+ibis: con công
+jacket: áo khoác
+igloo: nhà đá
+iguana: con kỳ đà
+jackal: con chó rừng
+key: chìa khóa
+jellyfish: con sứa
+kangaroo: con chuột túi
+lemon: quả chanh
+koala: con gấu túi
+ladybug: con bọ rùa
+monkey: con khỉ
+lion: con sư tử
+lemur: con vượn đuôi dài
+mango: quả xoài
+meerkat: con sóc xám
+necklace: dây chuyền
+mushroom: nấm
+narwhal: con ngựa biển
+name: tên
+orange: quả cam
+nest: tổ
+octopus: con bạch tuộc
+newt: con lưỡi bò
+ocelot: con mèo rừng
+pizza: bánh pizza
+penguin: chim cánh cụt
+panda: con gấu trúc
+queen: nữ hoàng
+quail: con cút
+puma: con puma
+robot: người máy
+quokka: con quokka
+rainbow: cầu vồng
+rabbit: con thỏ
+raccoon: con gấu trúc
+sun: mặt trời
+starfish: con sao biển
+sloth: con linh trưởng
+tiger: con hổ
+umbrella: cái ô
+violin: đàn violin
+unicorn: con kỳ lân
+urutu: con rắn đuôi chuông
+whale: con cá voi
+watermelon: dưa hấu
+vulture: con kền kền
+wallaby: con wallaby
+xylophone: xylophone (dạng nhạc cụ)
+wolf: con sói
+x-ray: tia X
+yogurt: sữa chua
+yacht: du thuyền
+yak: con dê tơ
+zebra: con ngựa vằn
